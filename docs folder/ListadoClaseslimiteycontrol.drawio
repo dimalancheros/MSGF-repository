@@ -1,0 +1,34 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="2EmdZl-IX9cwlW-54Z7B">
+    <mxGraphModel dx="860" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AmDA-YJMGalx9evyhf7X-126" parent="1" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" value="ControlCalculoFondo" vertex="1">
+          <mxGeometry height="120" width="110" x="440" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="AmDA-YJMGalx9evyhf7X-127" parent="1" style="shape=umlBoundary;whiteSpace=wrap;html=1;" value="CalculoFondo" vertex="1">
+          <mxGeometry height="80" width="100" x="240" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="AmDA-YJMGalx9evyhf7X-128" parent="1" style="shape=umlBoundary;whiteSpace=wrap;html=1;" value="GestionHipoteca" vertex="1">
+          <mxGeometry height="80" width="110" x="240" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="AmDA-YJMGalx9evyhf7X-129" parent="1" style="shape=umlBoundary;whiteSpace=wrap;html=1;" value="GestionInversiones" vertex="1">
+          <mxGeometry height="100" width="125" x="232.5" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="AmDA-YJMGalx9evyhf7X-130" parent="1" style="shape=umlBoundary;whiteSpace=wrap;html=1;" value="GestionReporte" vertex="1">
+          <mxGeometry height="80" width="100" x="245" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="AmDA-YJMGalx9evyhf7X-132" parent="1" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" value="&lt;div&gt;-ControlHipoteca&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="90" x="450" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="AmDA-YJMGalx9evyhf7X-133" parent="1" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" value="ControlInversiones" vertex="1">
+          <mxGeometry height="110" width="100" x="445" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="AmDA-YJMGalx9evyhf7X-134" parent="1" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" value="ControlReportes" vertex="1">
+          <mxGeometry height="110" width="100" x="445" y="680" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
