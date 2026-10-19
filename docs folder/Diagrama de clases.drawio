@@ -1,0 +1,48 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="2EmdZl-IX9cwlW-54Z7B">
+    <mxGraphModel dx="1036" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AmDA-YJMGalx9evyhf7X-13" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Activo" vertex="1">
+          <mxGeometry height="140" width="160" x="350" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="AmDA-YJMGalx9evyhf7X-14" parent="AmDA-YJMGalx9evyhf7X-13" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="#ID" vertex="1">
+          <mxGeometry height="26" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="AmDA-YJMGalx9evyhf7X-15" parent="AmDA-YJMGalx9evyhf7X-13" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="8" width="160" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="AmDA-YJMGalx9evyhf7X-16" parent="AmDA-YJMGalx9evyhf7X-13" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Crear()&lt;div&gt;Read()&lt;/div&gt;&lt;div&gt;Update()&lt;/div&gt;&lt;div&gt;Delete()&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="160" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AmDA-YJMGalx9evyhf7X-17" edge="1" parent="1" source="AmDA-YJMGalx9evyhf7X-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=gap;" target="AmDA-YJMGalx9evyhf7X-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmDA-YJMGalx9evyhf7X-18" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Hipoteca" vertex="1">
+          <mxGeometry height="180" width="160" x="130" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="AmDA-YJMGalx9evyhf7X-19" parent="AmDA-YJMGalx9evyhf7X-18" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="pareja&lt;div&gt;valor_inicial&lt;/div&gt;&lt;div&gt;fecha_otorgada&lt;/div&gt;&lt;div&gt;ingresos_sem&lt;/div&gt;&lt;div&gt;impuesto&lt;/div&gt;&lt;div&gt;seguro&lt;/div&gt;&lt;div&gt;fecha_imp&lt;/div&gt;&lt;div&gt;fecha_seg&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="AmDA-YJMGalx9evyhf7X-20" parent="AmDA-YJMGalx9evyhf7X-18" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="14" width="160" y="166" as="geometry" />
+        </mxCell>
+        <mxCell id="AmDA-YJMGalx9evyhf7X-21" edge="1" parent="1" source="AmDA-YJMGalx9evyhf7X-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;defaultLabelBackgroundColor=gap;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AmDA-YJMGalx9evyhf7X-22" parent="1" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="Inversion" vertex="1">
+          <mxGeometry height="102" width="160" x="570" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="AmDA-YJMGalx9evyhf7X-23" parent="AmDA-YJMGalx9evyhf7X-22" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="entidad&lt;div&gt;valor&lt;/div&gt;&lt;div&gt;plazos&lt;/div&gt;&lt;div&gt;interes&lt;/div&gt;" vertex="1">
+          <mxGeometry height="74" width="160" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="AmDA-YJMGalx9evyhf7X-24" parent="AmDA-YJMGalx9evyhf7X-22" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="2" width="160" y="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
